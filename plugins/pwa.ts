@@ -1,0 +1,1 @@
+import type { LoaderPlugin } from '../types.ts'
